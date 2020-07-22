@@ -1,4 +1,7 @@
 # Wifi Watering System
+
+![imagen](https://i.imgur.com/DEPwjmO.jpg)
+
 Arduino| NodeMcu ESP8266
 This project is an improvement of the conventional method of house garden watering system to the IoT driven in house garden watering system. The development of the system is divided into software and hardware implementation and it will cover these areas: -Arduino Uno Board, Node MCU ESP8266 and The Arduino programming language -The sensor system -The output system
 
